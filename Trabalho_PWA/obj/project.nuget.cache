@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smib9NpJt1Q=",
+  "dgSpecHash": "jzE6cKgA5IM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Trabalho_PWA\\Trabalho_PWA.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Faculdade\\Trabalho_PWA\\Trabalho_PWA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.4\\microsoft.aspnetcore.authorization.9.0.4.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.4\\microsoft.aspnetcore.components.9.0.4.nupkg.sha512",
