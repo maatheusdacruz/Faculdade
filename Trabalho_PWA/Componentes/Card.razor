@@ -1,0 +1,25 @@
+﻿<li class="border border-3 border-black pb-3 w-75 h-100 m-3">
+    <div class="m-3">
+        <div class="p-3 m-3 h-50">
+            <img src=@Caminho>
+        </div>
+        <div class="m-3">
+            <h3>@Titulo</h3>
+        </div>
+        <div class="m-3 font-bold">
+            <p>R$ @Preco</p>
+        </div>
+        <div class="flex justify-center">
+            <button class="border border-3 p-5 pt-1 pb-1">Compre Agora</button>
+        </div>
+    </div>
+</li>
+
+@code {
+    [Parameter]
+    public string Caminho{get; set;} = null;
+    [Parameter]
+    public string Titulo{get; set;} = null;
+    [Parameter]
+    public double Preco{get; set;}
+}

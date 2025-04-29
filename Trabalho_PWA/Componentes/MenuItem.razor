@@ -1,0 +1,10 @@
+﻿<li class="list-none bg-white p-2 m-2">
+    <a href="@Caminho">@Titulo</a>
+</li>
+
+@code {
+    [Parameter]
+    public string Caminho {get; set;} = null!;
+    [Parameter]
+    public string Titulo {get; set;} = null;
+}

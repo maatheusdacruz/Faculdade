@@ -1,0 +1,30 @@
+﻿@inherits LayoutComponentBase
+@using Trabalho_PWA.Componentes
+<div class="page">
+    @* <div class="sidebar">
+        <NavMenu />
+    </div> *@
+
+    <main>
+        <header>
+            <Menu>
+                <Itens>
+                    <MenuItem Caminho ="/" Titulo= "Home"/>
+                    <MenuItem Caminho="/Login" Titulo="Login"/>
+                    <MenuItem Caminho="/Ajuda" Titulo="Ajuda"/>
+                    <MenuItem Caminho="/Sobre" Titulo="Sobre"/>
+                    <MenuItem Caminho="/Carrinho" Titulo="Carrinho"/> 
+                </Itens>
+            </Menu>
+        </header>
+        <article class="content px-4 min-h-screen ">
+            @Body
+        </article>
+        <footer class="bg-blue-600 p-4 h-50">
+            <div class="flex flex-col items-center">
+                <p class="p-5">Loja de Artigos Esportivos SportThings© - Todos os direitos reservados</p>
+                <p class="p-5">Desenvolvido por: Matheus</p>
+            </div>
+        </footer>
+    </main>
+</div>

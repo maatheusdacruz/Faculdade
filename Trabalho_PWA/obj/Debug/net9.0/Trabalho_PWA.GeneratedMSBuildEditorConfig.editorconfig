@@ -1,0 +1,81 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Trabalho_PWA
+build_property.RootNamespace = Trabalho_PWA
+build_property.ProjectDir = C:\Users\mathe\OneDrive\Área de Trabalho\Trabalho_PWA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mathe\OneDrive\Área de Trabalho\Trabalho_PWA
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Componentes/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Componentes/Destaques.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcRGVzdGFxdWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Componentes/Menu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Componentes/MenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcTWVudUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Componentes/Principal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUHJpbmNpcGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Pages/Ajuda.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWp1ZGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Pages/Carrinho.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Pages/Sobre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29icmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1q15rylwaf
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Trabalho_PWA/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-crdjqsp2y0
